@@ -1,0 +1,13 @@
+Density,Biomass,Crop,Year,Soil
+210,15.1,Maize,1998,0-10 
+251,22.2,Maize,1999,0-10 
+75,6.1,Maize,1998,10-20 
+17,2.3,Maize,1999,10-20 
+552,83.2,Paddy and Pulses,1998,0-10 
+556,60.4,Paddy and Pulses,1999,0-10 
+0,0,Paddy and Pulses,1998,10-20 
+0,0,Paddy and Pulses,1999,10-20 
+204,26.3,Wheat and Mustard,1998,0-10 
+226,31.1,Wheat and Mustard,1999,0-10 
+17,3.9,Wheat and Mustard,1998,10-20 
+3,0.6,Wheat and Mustard,1999,10-20 

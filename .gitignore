@@ -1,0 +1,27 @@
+# Julia standard ignore files
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+deps/deps.jl
+
+# Documenter.jl generated build files
+docs/build/
+docs/site/
+
+# Julia Manifest (Optional: recommended for packages to let users resolve dependencies dynamically)
+Manifest.toml
+
+# Operating System temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor temporary files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary and log files
+*.log
+*.tmp

@@ -1,0 +1,12 @@
+code,s3_a,s2_a,s1_a,s1_b,s2_b,s3_b,wts
+CFragm,55.0,35.0,15.0,NA,NA,NA,3
+SoilDpt,50.0,75.0,100.0,NA,NA,NA,1
+CaCO3,5.0,2.0,1.0,NA,NA,NA,3
+Gyps,3.0,2.0,0.5,NA,NA,NA,3
+CECc,8.0,10.0,16.0,NA,NA,NA,2
+BS,20.0,35.0,50.0,NA,NA,NA,2
+SumBCs,1.6,2.8,4.0,NA,NA,NA,2
+pHH2O,5.2,5.4,5.6,6.6,7.4,7.8,2
+OC,0.7,0.8,1.2,NA,NA,NA,3
+ECedS,2.0,0.5,0.5,NA,NA,NA,3
+SoilTe,3.0,4.0,9.0,NA,NA,NA,2

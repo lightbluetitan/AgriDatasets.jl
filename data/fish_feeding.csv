@@ -1,0 +1,34 @@
+Species,MaxWt,Temp,AR,Food,FoodCon
+Brevoortia patronus,362,25,1.69,C,2.22
+Brevoortia tyrannus,1216,18,2.31,H,8.61
+Engraulis encrasicholus,28,15,1.42,C,2.5
+Hygophum proximum,2,25,1.65,C,9.28
+Hygophum reindhardtii,1,25,1.05,C,6.66
+Lampanyctus alatus,2,25,1.62,C,3.32
+Myctophum asperum,8,25,1.28,C,10.3
+Myctophum aurolaternatum,10,25,1.11,C,4.45
+Myctophum nitidulum,11,25,0.93,C,3.28
+Myctophum spinosum,13,25,1.28,C,7.38
+Symbolophorus everrnanni,4,25,1.2,C,5.45
+Gadus morhua (Baltic),12356,10,0.88,C,0.71
+Gadus morhua (North Sea),15714,12,0.88,C,0.62
+Sebastes melanops,3776,13,1.31,C,0.3
+Epinephelus aenus,47000,19,1.28,C,1.1
+Epinephelus fuscoguttatus,12338,28,2.14,C,1.1
+Epinephelus guttatus,1880,28,1.44,C,0.76
+Epinephelus tauvina,17940,28,1.44,C,0.64
+Caranx ruber,3036,27,3.91,C,2.89
+Coryphaena hippurus,147000,25,3.29,C,2.32
+Lutjanus campechanus,13000,20,1.41,C,1.44
+Lutjanus erythropterus,3229,27,2.39,C,1.82
+Sparidentex hasta,7400,24,2.18,C,0.64
+Sparus aurata (Adriatic),4000,16,2.84,C,0.44
+Sparus aurata (SE Medit.),9617,24,2.84,C,1.28
+Siganus canaliculatus,215,27,2.27,H,16.9
+Siganus spinus,234,27,2.42,H,11.5
+Thunnus albacares,81920,24,9.26,C,3.19
+Thunnus thynnus,622000,15,9.8,C,1.08
+Lirnanda limanda (F),756,12,1.2,C,1.01
+Limanda limanda (M),149,12,1.2,C,1.93
+Pleuronectes platessa (F),3430,12,1.11,C,0.58
+Pleuronectes platessa (M),910,12,1.11,C,0.94

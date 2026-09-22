@@ -1,0 +1,16 @@
+insecticide_id,product_name,active_ingredient,target_pest
+INSECT-001,Aikido,Lambda-cyhalothrin,Caterpillars; aphids; whiteflies
+INSECT-002,Altacor 35,Chlorantraniliprole,Caterpillars
+INSECT-003,Biomax,Bacillus thuringiensis,Caterpillars
+INSECT-004,Carnadine,Acetamiprid,Aphids; whiteflies
+INSECT-005,Closer,Sulfoxaflor,Aphids; whiteflies
+INSECT-006,Decis Evo,Deltamethrin,Caterpillars; aphids; whiteflies; thrips
+INSECT-007,Exalt,Spinetoram,Caterpillars; thrips
+INSECT-008,Expert,Deltamethrin,Caterpillars; aphids; whiteflies
+INSECT-009,Flipper,Potassium salts of fatty acids,Mites; thrips
+INSECT-010,Movento 150,Spirotetramat,Aphids; whiteflies; thrips
+INSECT-011,Oberon,Spiromesifen,Mites
+INSECT-012,Runner,Methoxyfenozide,Caterpillars
+INSECT-013,Sivanto,Flupyradifurone,Aphids; whiteflies
+INSECT-014,Spintor 480,Spinosad,Caterpillars; thrips
+INSECT-015,Velum Prime,Fluopyram,Nematodes

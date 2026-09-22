@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this package in your research or educational materials, please cite it as below."
+title: "AgriDatasets.jl: A Julia package for open-access agricultural and agronomic datasets"
+abstract: "AgriDatasets.jl provides seamless access to a curated collection of agricultural, agronomic, soil, and animal science datasets for statistical modeling and open-science research in Julia."
+authors:
+  - family-names: "Caceres Rossi"
+    given-names: "Renzo"
+    orcid: "https://orcid.org/0009-0005-0744-854X"
+type: software
+license: GPL-2.0-or-later
+repository-code: "https://github.com/lightbluetitan/AgriDatasets.jl"
+url: "https://github.com/lightbluetitan/AgriDatasets.jl"
+keywords:
+  - julia
+  - datasets
+  - agriculture
+  - agronomy
+  - soil-science
+  - edaphology
+  - crop-science
+  - animal-science
+  - livestock
+  - pest-control
+  - plant-pathology
+  - forestry
+  - experimental-design
+  - statistical-modeling
+  - open-science
+  - data-science
+  - coffee-production
+  - yield-trial
+  - agricultural-economics
+version: 0.1.0
+date-released: 2026-09-22

@@ -1,0 +1,72 @@
+name,original_name,source_package,source_package_version,license,source_url,description
+bamboo_growth,BambooGrowth,gpk,1.0,GPL-2,https://cran.r-project.org/package=gpk,Data set relating growth of bamboo to geographic location
+cows_insemination,COWSDATA,gpk,1.0,GPL-2,https://cran.r-project.org/package=gpk,Crossbreeding of cows
+earthworm_population,EarthwormSeason,gpk,1.0,GPL-2,https://cran.r-project.org/package=gpk,Population dynamics of earthworms
+earthworm_crop_soils,Earthwormbiomass,gpk,1.0,GPL-2,https://cran.r-project.org/package=gpk,Earthworms in cultivated soils
+rabbit_body_mass,Rabbit,gpk,1.0,GPL-2,https://cran.r-project.org/package=gpk,Relating foot length to body mass
+rice_wheat_production,RiceWheat,gpk,1.0,GPL-2,https://cran.r-project.org/package=gpk,Modeling rice and wheat production
+timber_genetics,Timber,gpk,1.0,GPL-2,https://cran.r-project.org/package=gpk,Genetic and environmental components of tree characteristics
+corn_hybrid_density,corn,AgroR,1.3.7,GPL (>= 2),https://cran.r-project.org/package=AgroR,Corn hybrid density experiment
+eucalyptus_progenies,eucalyptus,AgroR,1.3.7,GPL (>= 2),https://cran.r-project.org/package=AgroR,Eucalyptus grandis Barbin (2013) progenies dataset
+orange_rootstocks,laranja,AgroR,1.3.7,GPL (>= 2),https://cran.r-project.org/package=AgroR,Orange plants under different rootstocks
+soybean_cultivars,soybean,AgroR,1.3.7,GPL (>= 2),https://cran.r-project.org/package=AgroR,Soybean cultivars experiment
+alfalfa_soil,ALFALFASoil,ALUES,0.2.1,MIT + file LICENSE,https://cran.r-project.org/package=ALUES,Alfalfa soil requirement for land evaluation
+toxin_lethal_dose,toxinLD,mcprofile,1.0-1,GPL (>= 2),https://cran.r-project.org/package=mcprofile,Identifying the lethal dose of a crop protection product
+idn_rice_farms,RiceFarms,plm,2.6-7,GPL (>= 2),https://cran.r-project.org/package=plm,Production of rice in Indonesia
+soil_munsell_minerals,soil_minerals,aqp,2.3.2,GPL (>= 3),https://cran.r-project.org/package=aqp,Munsell colors of common soil minerals
+soil_munsell_colors,traditionalColorNames,aqp,2.3.2,GPL (>= 3),https://cran.r-project.org/package=aqp,Traditional soil color names
+us_state_soils,us.state.soils,aqp,2.3.2,GPL (>= 3),https://cran.r-project.org/package=aqp,US state soils
+red_wine_quality,wine,live,1.5.13,MIT + file LICENSE,https://cran.r-project.org/package=live,Red wine characteristics and quality
+cotton_pesticide,cotton,smbdata,0.2.0,GPL (>= 3),https://cran.r-project.org/package=smbdata,Cotton response to herbicide and insecticide
+willow_cutting_yield,cuttings,smbdata,0.2.0,GPL (>= 3),https://cran.r-project.org/package=smbdata,Effect of type and size of cutting on willow yield
+plant_growth_regulator,heights,smbdata,0.2.0,GPL (>= 3),https://cran.r-project.org/package=smbdata,Plant heights in glasshouse
+blackgrass_herbicide,herbicide,smbdata,0.2.0,GPL (>= 3),https://cran.r-project.org/package=smbdata,Herbicide efficacy
+lady_bird_fungus,ladybird,smbdata,0.2.0,GPL (>= 3),https://cran.r-project.org/package=smbdata,Ladybird transmission of fungus
+nitrofen_toxicity,nitrofen,boot,1.3-32,Unlimited,https://cran.r-project.org/package=boot,Toxicity of nitrofen in aquatic systems
+black_duck_survival,ducks,collett,0.1.2,MIT + file LICENSE,https://cran.r-project.org/package=collett,Survival of black ducks
+potato_scab_sulfur,cochran.crd,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Potato scab infection with sulfur treatments
+eelworm_fumigation,cochran.eelworms,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Counts of eelworms before and after fumigant treatments
+apple_canker,jansen.apple,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Infestation of apple shoots by apple canker
+carrot_fly_infestation,jansen.carrot,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Infestation of carrots by fly larvae
+strawberry_cross_disease,jansen.strawberry,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Ordered disease ratings of strawberry crosses
+cork_tree_direction,box.cork,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Weight of cork samples on four sides of trees
+egg_weight_daily,goulden.eggs,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Sample of egg weights on 24 consecutive days
+fungicide_latin_square,goulden.latin,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Latin square experiment for testing fungicide
+wheat_splitsplit,goulden.splitsplit,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Split-split-plot experiment of wheat
+seed_germination,mead.germination,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Seed germination with different temperatures/concentrations
+lamb_births,mead.lamb,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Number of lambs born to 3 breeds on 3 farms
+wheat_bunt,salmon.bunt,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Fungus infection in varieties of wheat
+cauliflower_growth,mead.cauliflower,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Leaves for cauliflower plants at different times
+cowpea_maize_yield,mead.cowpea.maize,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Intercropping experiment of maize/cowpea
+strawberry_yield,mead.strawberry,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,RCB experiment of strawberry
+turnip_density,mead.turnip,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Density/spacing experiment for turnips in 3 blocks
+apple_uniformity,strickland.apple.uniformity,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Uniformity trial in apple
+grape_uniformity,strickland.grape.uniformity,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Uniformity trial of grape
+peach_uniformity,strickland.peach.uniformity,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Uniformity trial of peach
+tomato_uniformity,strickland.tomato.uniformity,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Uniformity trial of tomato
+carrot_insecticide,wheatley.carrot,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Insecticide treatments for carrot fly larvae
+pig_weight_gain,woodman.pig,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,Weight gain in pigs for different treatments
+broiler_growth,zuidhof.broiler,agridat,1.26,MIT + file LICENSE,https://cran.r-project.org/package=agridat,"Daily weight, feed, egg measurements for a broiler chicken"
+hawaii_tree_growth,hawaii,biometrics,1.0.4,GPL (>= 3),https://cran.r-project.org/package=biometrics,Diameter growth increments of a tropical tree species in Hawaii
+hawaii_plant_size,plantshawaii,biometrics,1.0.4,GPL (>= 3),https://cran.r-project.org/package=biometrics,Maximum plant size in the Hawaiian archipelago
+biological_control,ex0817,Sleuth3,1.0-6,GPL (>= 2),https://cran.r-project.org/package=Sleuth3,Biological pest control experiment
+pollen_removal,ex0327,Sleuth3,1.0-6,GPL (>= 2),https://cran.r-project.org/package=Sleuth3,Pollen removal experiment
+river_deforestation,deforestation,EnTraineR,1.0.0,MIT + file LICENSE,https://cran.r-project.org/package=EnTraineR,River deforestation: air and water temperatures before/after
+kiwi_crop_design,nemmeta,easynem,1.0.3,MIT + file LICENSE,https://cran.r-project.org/package=easynem,Experimental design of kiwifruit cover crops
+avocado_us_sale,hass_usa,avocado,0.2.0,MIT + file LICENSE,https://cran.r-project.org/package=avocado,Hass avocado weekly US sales
+budworm_pyrethroid,budworm,GLMsData,1.4,GPL (>= 2),https://cran.r-project.org/package=GLMsData,Insecticide doses and tobacco budworm
+cattle_butterfat,butterfat,GLMsData,1.4,GPL (>= 2),https://cran.r-project.org/package=GLMsData,Butterfat and dairy cattle
+fish_feeding,fishfood,GLMsData,1.4,GPL (>= 2),https://cran.r-project.org/package=GLMsData,Food consumption for fish
+guinea_pig_sleep,gpsleep,GLMsData,1.4,GPL (>= 2),https://cran.r-project.org/package=GLMsData,Sleep times for guinea pigs
+bird_grazing,grazing,GLMsData,1.4,GPL (>= 2),https://cran.r-project.org/package=GLMsData,Bird abundance in grazing areas
+coffee_production,coffee_data,spData,2.3.5,CC0,https://cran.r-project.org/package=spData,World coffee production data
+coffee_composition,coffee,IMIFA,2.2.0,GPL (>= 3),https://cran.r-project.org/package=IMIFA,Chemical composition of Arabica and Robusta coffee samples
+arabica_soil,COFFEEARSoil,ALUES,0.2.1,MIT + file LICENSE,https://cran.r-project.org/package=ALUES,Arabica coffee soil requirement for land evaluation
+arabica_temp,COFFEEARTemp,ALUES,0.2.1,MIT + file LICENSE,https://cran.r-project.org/package=ALUES,Arabica coffee temperature requirement for land evaluation
+arabica_terrain,COFFEEARTerrain,ALUES,0.2.1,MIT + file LICENSE,https://cran.r-project.org/package=ALUES,Arabica coffee terrain requirement for land evaluation
+arabica_water,COFFEEARWater,ALUES,0.2.1,MIT + file LICENSE,https://cran.r-project.org/package=ALUES,Arabica coffee water requirement for land evaluation
+robusta_soil,COFFEEROSoil,ALUES,0.2.1,MIT + file LICENSE,https://cran.r-project.org/package=ALUES,Robusta coffee soil requirement for land evaluation
+robusta_temp,COFFEEROTemp,ALUES,0.2.1,MIT + file LICENSE,https://cran.r-project.org/package=ALUES,Robusta coffee temperature requirement for land evaluation
+robusta_terrain,COFFEEROTerrain,ALUES,0.2.1,MIT + file LICENSE,https://cran.r-project.org/package=ALUES,Robusta coffee terrain requirement for land evaluation
+robusta_water,COFFEEROWater,ALUES,0.2.1,MIT + file LICENSE,https://cran.r-project.org/package=ALUES,Robusta coffee water requirement for land evaluation
+tomato_insecticides,tomato_insecticides,Zenodo (original work),-,CC BY 4.0,https://zenodo.org/records/21611429,Dataset created by Renzo Caceres Rossi on tomato insecticide treatments

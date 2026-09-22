@@ -1,0 +1,16 @@
+name = "AgriDatasets"
+uuid = "15d1ec42-5cd8-4285-ba5c-b695409997b9"
+license = "GPL-2.0-or-later"
+version = "0.1.0"
+authors = ["Renzo Caceres Rossi <arenzocaceresrossi@gmail.com>"]
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+CSV = "1"
+DataFrames = "1"
+Test = "1.11.0"
+julia = "1.9"
