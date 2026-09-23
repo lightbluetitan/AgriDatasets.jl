@@ -1,0 +1,35 @@
+name: Documentation
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  docs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Julia
+        uses: julia-actions/setup-julia@v2
+        with:
+          version: '1.11'
+
+      - name: Instantiate documentation environment
+        shell: bash
+        run: |
+          julia --project=docs -e 'using Pkg; Pkg.instantiate()'
+
+      - name: Build and deploy documentation
+        shell: bash
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          julia --project=docs docs/make.jl

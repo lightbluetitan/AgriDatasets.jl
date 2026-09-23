@@ -1,4 +1,5 @@
 using Documenter
+using Documenter.Remotes
 using AgriDatasets
 
 makedocs(
@@ -83,7 +84,7 @@ makedocs(
             "datasets/willow_cutting_yield.md",
         ],
     ],
-    repo = "https://github.com/lightbluetitan/AgriDatasets.jl/blob/{commit}{path}#{line}",
+    repo = Remotes.GitHub("lightbluetitan", "AgriDatasets.jl"),
 )
 
 deploydocs(

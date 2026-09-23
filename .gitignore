@@ -8,8 +8,8 @@ deps/deps.jl
 docs/build/
 docs/site/
 
-# Julia Manifest (Optional: recommended for packages to let users resolve dependencies dynamically)
-Manifest.toml
+# Julia Manifest files
+**/Manifest.toml
 
 # Operating System temporary files
 .DS_Store
