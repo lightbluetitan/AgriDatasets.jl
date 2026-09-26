@@ -7,7 +7,7 @@ authors:
     given-names: "Renzo"
     orcid: "https://orcid.org/0009-0005-0744-854X"
 type: software
-license: GPL-2.0-or-later
+license: GPL-3.0-or-later
 repository-code: "https://github.com/lightbluetitan/AgriDatasets.jl"
 url: "https://github.com/lightbluetitan/AgriDatasets.jl"
 keywords:
@@ -31,4 +31,4 @@ keywords:
   - yield-trial
   - agricultural-economics
 version: 0.1.0
-date-released: 2026-09-22
+date-released: 2026-09-26

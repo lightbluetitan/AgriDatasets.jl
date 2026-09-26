@@ -31,7 +31,7 @@ function load_dataset(name::AbstractString)
     if !isfile(path)
         error("Dataset '$name' not found.\nUse `list_datasets()` to view the list of available datasets.")
     end
-    return CSV.read(path, DataFrame)
+    return CSV.read(path, DataFrame; missingstring=["NA"])
 end
 
 """
